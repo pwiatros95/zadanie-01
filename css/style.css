@@ -1,0 +1,25 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.jeden {
+    background-color: blue;
+}
+
+.dwa {
+    background-color: blue;
+}
+
+.trzy {
+    background-color: blue;
+}
+
+.klasa {
+    opacity: 0.3;
+}
+
+.klasa2 {
+    opacity: 0.4;
+}
